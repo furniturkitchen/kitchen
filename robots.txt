@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+sitemap: https://furniturkitchen.github.io/sitemapx.xml
